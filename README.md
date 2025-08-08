@@ -1,6 +1,6 @@
 # my-first-ripo
 just testing github
- solana_balance_checker.py
+ solana_balance_checker.pl
 
 from solana.rpc.api import Clien
 from solana.publickey import PublicKey
