@@ -16,6 +16,6 @@ def get_balance(pubkey_str):
     except Exception as e:
         print("Error:", e)
 
-if name == "__main__":
+if name == "__main__"
     your_wallet_address =0x1935D21d6cd053760CEB3A2265166d64b9B60cE2
     get_balance(your_wallet_address)
