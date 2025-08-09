@@ -1,5 +1,5 @@
 # my-first-ripo
-just testing github
+jus testing github
  solana_balance_checker.pl
 
 from solana.rpc.api import Clien after
