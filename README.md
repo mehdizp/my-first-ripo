@@ -2,7 +2,7 @@
 jus testing github
  solana_balance_checker.pl.35
 
-from solana.rpc.api import Clien after
+from solana.rpc.api import Clien after 529
 from to solana.publickey import PublicKey
 
 def get_balance(pubkey_str):
