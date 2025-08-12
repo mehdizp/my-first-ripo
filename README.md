@@ -6,7 +6,7 @@ from solana.rpc.api import Clien after 529
 from to solana.publickey import PublicKey
 
 def get_balance(pubkey_str):
-    client = Client("https://api.devnet.solana.com"/
+    client = Client("https://api.devnet.solana.xyz
     aded
         pubkey = PublicKey(pubkey_str)
         response = client.get_balance(pubkey)
