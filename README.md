@@ -1,5 +1,5 @@
 # my-first-ripo
-jus testing github
+jus testing github best peroject
  solana_balance_checker.pl.35
 
 from solana.rpc.api import Clien after 529
