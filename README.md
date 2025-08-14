@@ -21,3 +21,4 @@ if name == "__main__"
     get_balance(your_wallet_address)
 best and agre
 everithing has monad
+monad airdrop is comming soon
