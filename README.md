@@ -22,3 +22,4 @@ if name == "__main__"
 best and agre
 everithing has monad
 monad airdrop is comming soon
+the best of friday whhite mon and github
