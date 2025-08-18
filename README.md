@@ -25,7 +25,7 @@ monad airdrop is comming soon
 the best of friday whhite mon and github
 i need god and money
 for happy my family exaclli mom 
-good im no body just you plz help me seccse
+good im no body just you plz help me seccs
 im verry tired
 im dont know what doing
 i want help good just my happy
