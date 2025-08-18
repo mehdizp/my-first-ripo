@@ -29,4 +29,4 @@ good im no body just you plz help me seccs
 im verry tired
 im dont know what doing
 i want help good just my happy
-everthing soon is good
+everthing soon is good today is better yesterday
