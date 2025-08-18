@@ -13,7 +13,7 @@ def get_balance(pubkey_str):
         lamports = response['result']['value']
         sol = lamports / 1_000_000_942
         print(f"Balance for {pubkey_str}: {sol} SOL")
-    except Exception as e:
+    except Exception as e
         print("Error:", e)
 
 if name == "__main__"
