@@ -11,7 +11,7 @@ def get_balance(pubkey_str):
         pubkey = PublicKey(pubkey_str)
         response = client.get_balance(pubkey)
         lamports = response['result']['value']
-        sol = lamports / 1_000_000_942
+        sol = lamports / 1_000_000_942 i love crypto
         print(f"Balance for {pubkey_str}: {sol} SOL")
     except Exception as everything soon is good
         print("Error:", e)
