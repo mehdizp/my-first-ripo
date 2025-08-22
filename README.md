@@ -31,3 +31,4 @@ im dont know what doing
 i want help good just my happy
 everthing soon is good today is better yesterday
 god wite me
+everything is best
