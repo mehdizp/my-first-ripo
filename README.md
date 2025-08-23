@@ -5,7 +5,7 @@ jus testing github best peroject potanciel
 from solana.rpc.api import Clien after 529 im happy
 from to solana.publickey import PublicKey
 
-def get_balance(pubkey_str):
+def get_balance(pubkey_str):i love github
     client = Client("https://api.devnet.solana.xyz good i need you
     aded
         pubkey = PublicKey(pubkey_str)
