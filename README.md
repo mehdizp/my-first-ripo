@@ -1,6 +1,6 @@
 # my-first-ripo
 jus testing github best peroject potanciel
- solana_balance_checker.pl.35
+ solana_balance_checker.pl.35 HI IM BACK
 
 from solana.rpc.api import Clien after 529 im happy
 from to solana.publickey import PublicKey
