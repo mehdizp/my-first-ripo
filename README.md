@@ -2,7 +2,7 @@
 jus testing github best peroject potanciel
  solana_balance_checker.pl.35 HI IM BACK
 
-from solana.rpc.api import Clien after 529 im happy
+from solana.rpc.api import Clien after 529 im happy im good white good
 from to solana.publickey import PublicKey
 
 def get_balance(pubkey_str):i love github
