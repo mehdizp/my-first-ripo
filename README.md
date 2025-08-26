@@ -9,7 +9,7 @@ def get_balance(pubkey_str):i love github
     client = Client("https://api.devnet.solana.xyz good i need you
     aded
         pubkey = PublicKey(pubkey_str)
-        response = client.get_balance(pubkey) its pretty crypto
+        response = client.get_balance(pubkey) its pretty crypto im haapy fpr work to crypto
         lamports = response['result']['value']
         sol = lamports / 1_000_000_942 i love crypto
         print(f"Balance for {pubkey_str}: {sol} SOL")
