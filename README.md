@@ -3,7 +3,7 @@ jus testing github best peroject potanciel family import im belive god thats tru
  solana_balance_checker.pl.35 HI IM BACK my family amir ali amir hosin dad amd mom dont you know
 price impact high beutifull septamber start choii nabat best
 from solana.rpc.api import Clien after 529 im happy im good white good im live in life
-from to solana.publickey import PublicKey thanks good for my family
+from to solana.publickey import PublicKey thanks good for my famil
 jbh voltage security its gooden best month sepi monad mainnet comming soon
 def get_balance(pubkey_str):i love github thanks god for enything green book forrest gump
     client = Client("https://api.devnet.solana.xyz good i need you
