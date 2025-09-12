@@ -13,7 +13,7 @@ def get_balance(pubkey_str):i love github thanks god for enything green book for
         sol = lamports / 1_000_000_942 i love crypt im happy
         print(f"Balance for {pubkey_str}: {sol} SOL")
     except Exception as everything soon is good
-       print("Error:", e) god everything make 
+       print("Error:", e) god everything make im happy
 magma staking piury verry good im give full acces thanks goed
 if name == "__main__"handsome everything is 
     your_wallet_address =0x1935D21d6cd053760CEB3A2265166d64b9B60cE2
