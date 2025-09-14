@@ -18,7 +18,7 @@ magma staking piury verry good im give full acces thanks goed
 if name == "__main__"handsome everything is thanks god for salamati
     your_wallet_address =0x1935D21d6cd053760CEB3A2265166d64b9B60cE2
     get_balance(your_wallet_address)
-best and agre
+best and  khodaya shokret babat hame chiz
 everithing has monad
 monad airdrop is comming soon
 the best of friday whhite mon and github
