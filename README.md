@@ -11,7 +11,7 @@ def get_balance(pubkey_str):i love github thanks god for enything green book for
         pubkey = PublicKey(pubkey_str) thank god for enythin
         response = client.get_balance(pubkey) its pretty crypto im haapy fpr work to crypto        lamports = response['result']['value']
         sol = lamports / 1_000_000_942 i love crypt im happy
-        print(f"Balance for {pubkey_str}: {sol} SOL")
+        print(f"Balance for {pubkey_str}: {sol} SOL") thanks god for gym
     except Exception as everything soon is good i have full access
        print("Error:", e) god everything make im happy
 magma staking piury verry good im give full acces thanks goed
