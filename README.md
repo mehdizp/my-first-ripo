@@ -15,7 +15,7 @@ def get_balance(pubkey_str):i love github thanks god for enything green book for
     except Exception as everything soon is good i have full access
        print("Error:", e) god everything make im happy
 magma staking piury verry good im give full acces thanks goed
-if name == "__main__"handsome everything is 
+if name == "__main__"handsome everything is thanks god for salamati
     your_wallet_address =0x1935D21d6cd053760CEB3A2265166d64b9B60cE2
     get_balance(your_wallet_address)
 best and agre
