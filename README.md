@@ -13,7 +13,7 @@ lionel messi        response = client.get_balance(pubkey) its pretty crypto im h
         sol = lamports / 1_000_000_942 i love crypt im happy
         print(f"Balance for {pubkey_str}: {sol} SOL") thanks god for gym
     except Exception as everything soon is good i have full access
-       print("Error:", e) god everything make im happy
+barca       print("Error:", e) god everything make im happy
 magma staking piury verry good im give full acces thanks goed
 if name == "__main__"handsome everything is thanks god for salamati
     your_wallet_address =0x1935D21d6cd053760CEB3A2265166d64b9B60cE2
