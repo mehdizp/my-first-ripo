@@ -7,7 +7,7 @@ from to solana.publickey import PublicKey thanks good for my famil
 jbh voltage security its gooden best month sepi monad mainnet comming 
 def get_balance(pubkey_str):i love github thanks god for enything green book forrest gump
     client = Client("https://api.devnet.solana.xyz good i need you
-    aded i love my family in good we trust need god family yes thanks for everything
+l.suarez    aded i love my family in good we trust need god family yes thanks for everything
 neymar        pubkey = PublicKey(pubkey_str) thank god for enythin
 lionel messi        response = client.get_balance(pubkey) its pretty crypto im haapy fpr work to crypto        lamports = response['result']['value']
         sol = lamports / 1_000_000_942 i love crypt im happy
