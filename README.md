@@ -10,7 +10,7 @@ def get_balance(pubkey_str):i love github thanks god for enything green book for
 l.suarez    aded i love my family in good we trust need god family yes thanks for everything
 neymar        pubkey = PublicKey(pubkey_str) thank god for enythin
 lionel messi        response = client.get_balance(pubkey) its pretty crypto im haapy fpr work to crypto        lamports = response['result']['value']
-        sol = lamports / 1_000_000_942 i love crypt im happy
+        sol = lamports / 1_000_000_942 i love crypt im happ
         print(f"Balance for {pubkey_str}: {sol} SOL") thanks god for gym
     except Exception as everything soon is good i have full access
 barca       print("Error:", e) god everything make im happy
