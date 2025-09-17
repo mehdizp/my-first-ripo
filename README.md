@@ -15,7 +15,7 @@ lionel messi        response = client.get_balance(pubkey) its pretty crypto im h
 barca       print("Error:", e) god everything make im happy
 magma staking piury verry good im give full acces thanks goed
 if name == "__main__"handsome everything is thanks god for salamati
-    your_wallet_address =0x1935D21d6cd053760CEB3A2265166d64b9B60cE2
+dello    your_wallet_address =0x1935D21d6cd053760CEB3A2265166d64b9B60cE2
     get_balance(your_wallet_address)
 best and  khodaya shokret babat hame chiz
 everithing has monad
