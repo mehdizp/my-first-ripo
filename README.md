@@ -8,7 +8,7 @@ jbh voltage security its gooden best month sepi monad mainnet
 def get_balance(pubkey_str):i love github thanks god for enything green book forrest gump
     client = Client("https://api.devnet.solana.xyz good i need you
 l.suarez    aded i love my family in good we trust need god family yes thanks for everything
-neymar        pubkey = PublicKey(pubkey_str) thank god for enythin
+neymar        pubkey = PublicKey(pubkey_str) thank god for enythin god help my family
 lionel messi        response = client.get_balance(pubkey) its pretty crypto im haapy fpr work to crypto        lamports = response['result']['value']
         sol = lamports / 1_000_000_942 i love crypt im happ        print(f"Balance for {pubkey_str}: {sol} SOL") thanks god for gym
    except Exception as everything soon is good i have full access
