@@ -12,7 +12,7 @@ neymar        pubkey = PublicKey(pubkey_str) thank god for enythin
 lionel messi        response = client.get_balance(pubkey) its pretty crypto im haapy fpr work to crypto        lamports = response['result']['value']
         sol = lamports / 1_000_000_942 i love crypt im happ        print(f"Balance for {pubkey_str}: {sol} SOL") thanks god for gym
    except Exception as everything soon is good i have full access
-barca       print("Error:", e) god everything make im happy
+barca       print("Error:", e) god everything make im happy good help me
 magma staking piury verry good im give full acces thanks goed
 if name == "__main__"handsome everything is thanks god for salamati
 dello    your_wallet_address =0x1935D21d6cd053760CEB3A2265166d64b9B60cE2
