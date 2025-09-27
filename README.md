@@ -13,7 +13,7 @@ lionel messi elahi shokr      response = client.get_balance(pubkey) its pretty c
    except Exception as everything soon is good i have full access
 barca       print("Error:", e) god everything make im happy good help me home
 magma staking piury verry good im give full acces thanks goed start snap back
-if name == "__main__"handsome everything is thanks god for salamati
+if name == "__main__"handsome everything is thanks god for salamati usdt 115
 dello    your_wallet_address =0x1935D21d6cd053760CEB3A2265166d64b9B60cE2
    get_balance(your_wallet_address) thanks good for everything
 best and  khodaya shokret babat hame chiz high quality
