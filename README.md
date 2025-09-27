@@ -10,7 +10,7 @@ l.suarez   aded i love my family in good we trust need god family yes thanks for
 neymar      r2  pubkey = PublicKey(pubkey_str) thank god for enythin god help my family
 lionel messi elahi shokr      response = client.get_balance(pubkey) its pretty crypto im haapy fpr work to crypto        lamports = response['result']['value']
  everything is good       sol = lamports / 1_000_000_942 i love crypt im happ        print(f"Balance for {pubkey_str}: {sol} SOL") thanks god for gym
-   except Exception as everything soon is good i have full access
+   except Exception as everything soon is good i have full access usdc
 barca       print("Error:", e) god everything make im happy good help me home
 magma staking piury verry good im give full acces thanks goed start snap back
 if name == "__main__"handsome everything is thanks god for salamati usdt 115
