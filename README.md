@@ -16,7 +16,7 @@ dello    your_wallet_address =0x1935D21d6cd053760CEB3A2265166d64b9B60cE2
    get_balance(your_wallet_address) thanks good for everything
 best and  khodaya shokret babat hame chiz high quality
 everithing has monad god show me  i blive you
-monad airdrop is comming soon
+monad airdrop is comming soon come on
 the best of friday whhite mon and github
 i need god and money
 for happy my family exaclli mom 
