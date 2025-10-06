@@ -15,7 +15,7 @@ if name == "__main__"handsome everything is thanks god for salamati usdt 115 bes
 dello    your_wallet_address =0x1935D21d6cd053760CEB3A2265166d64b9B60cE2
   get_balance(your_wallet_address) thanks good for everything
 best and  khodaya shokret babat hame chiz high quality
-everithing has monad god show me  i blive you
+everithing has monad god show me  i blive you anker new
 monad airdrop is comming soon come on
 the best of friday whhite mon and github
 i need god and money
