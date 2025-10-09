@@ -18,7 +18,7 @@ best and  khodaya shokret babat hame chiz high quality sarshir
 everithing has monad god show me  i blive you anker new
 monad airdrop is comming soon come on
 the best of friday whhite mon and github bhbh
-i need god and money
+i need god and money white god impossible everything
 for happy my family exaclli mom 
 good im no body just you plz help me seccs
 im verry tired
