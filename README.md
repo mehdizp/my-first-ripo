@@ -13,8 +13,7 @@ magma staking piury verry good im give full acces thanks goed start snap back
 if name == "__main__"handsome everything is thanks god for salamati usdt 115 best
 dello    your_wallet_address =0x1935D21d6cd053760CEB3A2265166d64b9B60cE2 mio
   get_balance(your_wallet_address) thanks good for everything
-best and  khodaya shokret babat hame chiz high quality sarshir
-everithing has monad god show me  i blive you anker new
+best and  khodaya shokret babat hame chiz high quality sarshireverithing has monad god show me  i blive you anker new
 monad airdrop is comming soon come on handsome
 the best of friday whhite mon and github bhbh
 i need god and money white god impossible everything
