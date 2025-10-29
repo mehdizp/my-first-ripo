@@ -12,7 +12,7 @@ lionel messi elahi shokr      response = client.get_balance(pubkey) its pretty c
 magma staking piury verry good im give full acces thanks goed start snap bac best good
 if name == "__main__"handsome everything is thanks god for salamati usdt 115 best mess
 dello    your_wallet_address =0x1935D21d6cd053760CEB3A2265166d64b9B60cE2 mio  bhbh
-  get_balance(your_wallet_address) thanks good for everything
+  get_balance(your_wallet_address) thanks good for everything l;ljk;
 best and  khodaya shokret babat hame chiz high quality sarshireverithing has monad god show me  i blive you anker new
 monad airdrop is comming soon come on handsome
 the best of friday whhite mon and github bhbh
