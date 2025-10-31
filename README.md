@@ -16,7 +16,7 @@ dello    your_wallet_address =0x1935D21d6cd053760CEB3A2265166d64b9B60cE2 mio  bh
 best and  khodaya shokret babat hame chiz high quality sarshireverithing has monad god show me  i blive you anker new
 monad airdrop is comming soon come on handsome usdt
 the best of friday whhite mon and github bhbh
-i need god and money white god impossible everything hangover best
+i need god and money white god impossible everything hangover best can
 for happy my family exaclli mom 
 good im no body just you plz help me seccs
 im verry tired
