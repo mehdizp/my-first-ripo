@@ -17,7 +17,7 @@ best and  khodaya shokret babat hame chiz high quality sarshireverithing has mon
 monad airdrop is comming soon come on handsome usdt i hope in god best im belive
 the best of friday whhite mon and github bhbh everything good new life
 i need god and money white god impossible everything hangover best can
-for happy my family exaclli mom 
+for happy my family exaclli mom  good
 good im no body just you plz help me seccs
 im verry tired
 im dont know what doing
