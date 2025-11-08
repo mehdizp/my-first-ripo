@@ -19,7 +19,7 @@ the best of friday whhite mon and github bhbh everything good new life
 i need god and money white god impossible everything hangover best best
 for happy my family exaclli mom  good best
 good im no body just you plz help me seccs
-im verry tired
+im verry tired hermes
 im dont know what doing
 i want help good just my happy
 everthing soon is good today is better yesterday
