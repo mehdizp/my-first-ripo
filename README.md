@@ -13,7 +13,7 @@ magma staking piury verry good im give full acces thanks goed start snap bac bes
 if name == "__main__"handsome everything is thanks god for salamati usdt 115 best mess I BLIVE GOOD
 dello    your_wallet_address =0x1935D21d6cd053760CEB3A2265166d64b9B60cE2 mio  bhbh god with me half man
   get_balance(your_wallet_address) thanks good for everything l;ljk; home for my family
-best and  khodaya shokret babat hame chiz high quality sarshireverithing has monad god show me  i blive you anker new
+best and  khodaya shokret babat hame chiz high quality sarshireverithing has monad god show me  i blive you anker new yes im ok
 monad airdrop is comming soon come on handsome usdt i hope in god best im belive marvdasht
 the best of friday whhite mon and github bhbh everything good new life best kish usdt
 i need god and money white god impossible everything hangover best best hangover
