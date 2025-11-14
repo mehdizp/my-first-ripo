@@ -11,7 +11,7 @@ lionel messi elahi shokr      response = client.get_balance(pubkey) its pretty c
  everything is good  help me good     sol = lamports / 1_000_000_942 i love crypt im happ        print(f"Balance for {pubkey_str}: {sol} SOL") thanks god for gym    allahexcept Exception as everything soon is good i have full access usdc thanks godbarca       print("Error:", e) god everything make im happy good help me home tavakkol be khoda blive god handsome im humen bnb best 964 nft monad bnb gof bsbr `besr  kish finance
 magma staking piury verry good im give full acces thanks goed start snap bac best goohome thanks god best
 if name == "__main__"handsome everything is thanks god for salamati usdt 115 best mess I BLIVE GOOD thanks good
-dello    your_wallet_address =0x1935D21d6cd053760CEB3A2265166d64b9B60cE2 mio  bhbh god with me half man
+dello    your_wallet_address =0x1935D21d6cd053760CEB3A2265166d64b9B60cE2 mio 
   get_balance(your_wallet_address) thanks good for everything l;ljk; home for my family
 best and  khodaya shokret babat hame chiz high quality sarshireverithing has monad god show me  i blive you anker new yes im ok
 monad airdrop is comming soon come on handsome usdt i hope in god best im belive marvdasht
