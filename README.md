@@ -6,7 +6,7 @@ from solana.rpc.api import Clien after 529 im happy im good white good im live i
 from to solana.publickey import PublicKey thanks good for my familsave cat tea is bes i blive me best abade
 jbh voltage security its gooden best month sepi monad mainnet Client("https://api.devnet.solana.xyz good i need you eligebet
 l.suarez   aded i love my family in good we trust need god family yes thanks for everything best hand
-neymar  fuck    r2  pubkey = PublicKey(pubkey_str) thank god for enythin god help my family best led nmn
+neymar  fuck    r2  pubkey = PublicKey(pubkey_str) thank god for enythin god help my family best led nmn i blive you god
 lionel messi elahi shokr      response = client.get_balance(pubkey) its pretty crypto im haapy fpr work to crypto        lamports = response['result']['value']
  everything is good  help me good     sol = lamports / 1_000_000_942 i love crypt im happ ultra         print(f"Balance for {pubkey_str}: {sol} SOL") thanks god for gym    allahexcept Exception as everything soon is good i have full access usdc thanks godbarcnicea       print("Error:", e) god everything make im happy good help me home tavakkol be khoda blive god handsome im humen bnb best 964 nft monad bnb gof bsbr `besr  kish finance
 magma staking piury verry good im give full acces thanks goed start snap bac best goohome thanks god best
